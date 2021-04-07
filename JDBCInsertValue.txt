@@ -1,0 +1,49 @@
+value,
+Surly Straggler - Type A001
+Surly Straggler - Type A002
+Surly Straggler - Type A003
+Surly Straggler - Type A004
+Surly Straggler - Type A005
+Surly Straggler - Type A006
+Surly Straggler - Type A007
+Surly Straggler - Type A008
+Surly Straggler - Type A009
+Electra Townie Original - AGS001
+Electra Townie Original - AGS002
+Electra Townie Original - AGS003
+Electra Townie Original - AGS004
+Electra Townie Original - AGS005
+Electra Townie Original - AGS006
+Electra Townie Original - AGS007
+Electra Townie Original - AGS008
+Electra Townie Original - AGS009
+Trek Slash - ASD05
+Trek Slash - ASD06
+Trek Slash - ASD07
+Trek Slash - ASD08
+Trek Slash - ASD09
+Trek Slash - ASD10
+Trek Slash - ASD11
+Trek Slash - ASD12
+Trek Slash - ASD13
+Ice Cream Truck Frameset - GMC 1020
+Ice Cream Truck Frameset - GMC 1021
+Ice Cream Truck Frameset - GMC 1022
+Ice Cream Truck Frameset - GMC 1023
+Ice Cream Truck Frameset - GMC 1024
+Ice Cream Truck Frameset - GMC 1025
+Ice Cream Truck Frameset - GMC 1026
+Ice Cream Truck Frameset - GMC 1027
+Ice Cream Truck Frameset - GMC 1028
+Ice Cream Truck Frameset - GMC 1029
+Electra Townie Original - Type A1
+Electra Townie Original - Type A2
+Electra Townie Original - Type A3
+Electra Townie Original - Type A4
+Electra Townie Original - Type A5
+Electra Townie Original - Type A6
+Electra Townie Original - Type A7
+Electra Townie Original - Type A8
+Electra Townie Original - Type A9
+Electra Townie Original - Type A10
+Electra Townie Original - Type A11
